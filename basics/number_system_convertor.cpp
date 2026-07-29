@@ -14,7 +14,7 @@ int main() {
     // Octal using stream manipulators
     cout << "Octal: " << oct << n << endl;
 
-    // Hexadecimal using stream manipulators
+
     cout << "Hexadecimal: " << hex << uppercase << n << endl;
 
     return 0;
